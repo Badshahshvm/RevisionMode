@@ -1,0 +1,60 @@
+*
+{
+              margin: 0;
+              border: 0;
+
+}
+
+.box
+{
+              background-color: blue;
+              margin-top: 10px;
+              height: 100px;
+              width: 100px;
+              text-align: center;
+              text-decoration: dotted;
+              display: inline-block;
+}
+
+.box1
+{
+              background-color: rgb(211, 19, 131);
+              margin-top: 10px;
+              height: 100px;
+              width: 100px;
+              text-align:left;    
+              text-decoration: underline;  
+              display: inline-block;
+}
+
+.article
+{
+              background-color: green;
+              line-height: 100px;
+}
+
+.sizepara
+{
+              background-color: yellow;
+}
+
+
+.p1
+{
+              font-size: 10px;
+              background-color: yellow;
+              
+              font-weight: 100;
+}
+.p2
+{
+              background-color: azure;
+              font-size: 30px;
+              font-weight: 200;
+}
+.p3
+{
+              background-color: brown;
+              font-size: 50px;
+              font-weight: 400;
+}

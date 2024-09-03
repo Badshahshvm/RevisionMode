@@ -1,0 +1,19 @@
+*
+{
+              margin: 0;
+              padding: 0;
+              background-color: rgb(178, 248, 248);
+}
+
+header
+{
+              display: flex;
+              background-color: #f9f9b3;
+              height: 80px;
+}
+
+.mylogo
+{
+              height: 40px;
+              width: 60px;
+}

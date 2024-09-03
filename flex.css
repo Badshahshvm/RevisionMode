@@ -1,0 +1,22 @@
+*
+{
+              margin: 0;
+              padding: 0;
+}
+
+.container
+{
+       height: 300px;  
+       width: 100%;     
+       background-color: red;
+       border: 5px solid black;
+}
+
+.box1
+{
+              background-color: yellow;
+              margin-top: 10px;
+              float: right;
+              height: 100%;
+              width: 50px;
+}

@@ -1,0 +1,15 @@
+.box
+{
+              height: 300px;
+              width: 200px;
+              background-color: aqua;
+              border: 5px solid black;
+              margin-top: 10px;
+}
+
+.container
+{
+              background-image: url("./image//DSC_0381.JPG");
+             background-size: contain;
+             background-repeat: no-repeat;
+}
